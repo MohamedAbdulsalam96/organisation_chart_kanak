@@ -1,0 +1,9 @@
+{
+  "name": "organizational_chart_knk",
+  "version": "1.0.0",
+  "description": "organizational chart",
+  "license": "MIT",
+  "dependencies": {
+    "d3-org-chart": "^3.1.1"
+  }
+}

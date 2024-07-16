@@ -1,9 +1,9 @@
 [project]
-name = "organisation_chart_kanak"
+name = "organizational_chart_knk"
 authors = [
-    { name = "Kanak Infosystems LLP", email = "info@kanakinfosystems.com"}
+    { name = "kanakinfosystems LLP.", email = "info@kanakinfosystems.com"}
 ]
-description = "This app will provide you Organisation Chart."
+description = "organizational chart"
 requires-python = ">=3.10"
 readme = "README.md"
 dynamic = ["version"]

@@ -1,6 +1,6 @@
-## Organisation Chart
+## organizational chart
 
-This app will provide you Organisation Chart.
+organizational chart
 
 #### License
 
