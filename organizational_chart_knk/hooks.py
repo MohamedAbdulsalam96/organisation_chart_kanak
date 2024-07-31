@@ -1,5 +1,5 @@
 app_name = "organizational_chart_knk"
-app_title = "organizational chart"
+app_title = "Organizational Chart Advance"
 app_publisher = "KanakInfosystems LLP."
 app_description = "organizational chart"
 app_email = "info@kanakinfosystems.com"
