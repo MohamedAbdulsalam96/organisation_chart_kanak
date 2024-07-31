@@ -12,6 +12,8 @@ Multiple Hierarchy Views: Ability to switch between different types of hierarchi
 
 Advanced Action Tools: User can easily rotate and move charts in various directions. Can switch to full screen or navigate to center node easily with a few clicks. 
 
+Employee and Company Filter: Easily filter employees by company. Search an Employee in the chart using employee filter and it’ll easily highlight that employee in the Chart.
+
 Export Options: Export organization charts to various formats (PDF, PNG, etc.) for presentations or documentation.
 
 Sharing Capabilities: Share interactive charts with stakeholders via secure links or embedded in internal portals.
