@@ -1,7 +1,6 @@
 import frappe
 from frappe.query_builder.functions import Count
 
-
 @frappe.whitelist()
 def get_children(parent=None, company=None, exclude_node=None):
     filters = [["status", "!=", "Left"]]
