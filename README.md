@@ -18,6 +18,6 @@ Export Options: Export organization charts to various formats (PDF, PNG, etc.) f
 
 Sharing Capabilities: Share interactive charts with stakeholders via secure links or embedded in internal portals.
 
-#### License
+## License
 
 mit
